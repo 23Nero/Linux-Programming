@@ -4,7 +4,8 @@
 #include <unistd.h>
 #include <string.h>
 
-int main() {
+int main() 
+{
     // Mở file hoặc tạo file nếu chưa tồn tại
     // O_WRONLY: Mở file để ghi
     // O_CREAT: Tạo file nếu chưa tồn tại
